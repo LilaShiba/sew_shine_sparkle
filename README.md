@@ -1,36 +1,32 @@
-# ✨ A Wearable Tech ✨
-
-💡 Create your own glowing fashion!
-
-
-<!-- Dress GIF -->
-<video width="600" autoplay loop muted>
-    <source src="assets/videos/dress.MP4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
-
-Blend traditional sewing with modern technology by using sewable LEDs, conductive thread, and circuits. No experience needed—just bring your creativity!
-
-🎨 What You’ll Learn:
-🔹 Sew and design wearable your own LED-illuminated piece
-🔹 Explore the basics of electronics and circuits
-🔹 Customize colors, fabrics, and lighting effects
-
-👕 Who Can Join?
-Middle & high school students who love fashion, tech, or DIY crafts!
-
-📍 Flexible Schedule
-After school & weekends—we come to you!
-
-📩 Information/ Sign Up Here: [Google Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeK5I_JvXJP34doNozmxJfu7BrzBfNdsUMfnCJhbiVqbJoR8A/viewform?usp=sharing)
-🌟 [See It in Action!](https://lilashiba.github.io/flora_dress/)
-
-⚡ Let’s bring fashion to life—one stitch at a time! 🧵✨
+# ✨ Stich, Shine, Sparkle ✨
+⚡ **Bring fashion to life—one glowing stitch at a time!** 🧵✨
 
 <!-- Iteration GIF -->
 <img src="assets/videos/iterate.gif" alt="Iteration Example" width="600" loop loading="lazy">
 
+
+Turn your love for fashion into a dazzling display of technology! In this fun, hands-on course, you’ll learn how to blend traditional sewing with cutting-edge technology like sewable LEDs, conductive thread, and circuits. **No experience? No problem!** Just bring your creativity, and we’ll guide you through every stitch!
+
+### 🎨 **What You’ll Learn:**
+🔹 **Design and Sew Your Own LED-Illuminated Fashion Piece**  
+🔹 **Explore the Exciting Basics of Electronics and Circuits**  
+🔹 **Customize Colors, Fabrics, and Lighting Effects to Make It Truly Yours!**
+
+### 👕 **Who Can Join?**
+This course is perfect for middle and high school students passionate about fashion, tech, or DIY crafts! Whether you're a beginner or a pro inventor, there's a place for you!
+
+### 📍 **Flexible Schedule**
+We offer after-school & weekend classes—**we come to YOU**, making it easy to fit into your busy schedule.
+
+### 📩 **Ready to Light Up Your Creativity? Contact Here!**
+[Google Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeK5I_JvXJP34doNozmxJfu7BrzBfNdsUMfnCJhbiVqbJoR8A/viewform?usp=sharing)
+
+A free 1hr consultation is available to ask questions, see if it's a good fit, and personalize your learning journey.
+
+
+
+
+---
 
 ## About Me
 
@@ -42,13 +38,8 @@ After school & weekends—we come to you!
     </div>
 <div>
 
+I'm **Lila Josey James**, a technologist with a passion for merging traditional arts and modern technology. I’ve worked with engineers, artists, and educators around the world to bring creative projects to life—especially in education! My work includes developing innovative systems for the classroom and leading co-op programs focused on wearable fashion tech.
 
-Lila Josey James is a technologist with global experience in human-computer interaction, particularly in the educational sector. While at Georgia Tech's Design & Intelligence Lab, she developed and deployed innovative NLP/LLM systems for the classroom. Lila has collaborated with engineers, artists, and educators across six continents to create tailored software solutions.
+I hold a Master’s in Computer Science from Georgia Tech and a Master’s in Cultural Sustainability from Goucher College. I’ve had the privilege of teaching at top schools like Riverdale Country School, The Dwight School, and Berkeley-Carroll, where I fostered creativity and innovation.
 
-She holds a Master of Science in Computer Science from the Georgia Institute of Technology and a Master of Arts in Cultural Sustainability from Goucher College. Lila has also taught computer science courses at Riverdale Country School, The Dwight School, Berkeley-Carroll, and led a co-op focused on wearable fashion technology at Resistor. Passionate about merging traditional crafts with modern technology, Lila inspires creativity through the integration of traditional arts in education.
-
-For more information, visit her portfolio at https://lilashiba.github.io/resume2025/ or reach out directly via email at lilaresearch@gmail.com.
-
-
-📩 Request Information Here: [Google Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeK5I_JvXJP34doNozmxJfu7BrzBfNdsUMfnCJhbiVqbJoR8A/viewform?usp=sharing)
-🌟 See It in Action! https://lilashiba.github.io/flora_dress/
+I’m passionate about inspiring students to think outside the box and explore new ways of creating with technology.
