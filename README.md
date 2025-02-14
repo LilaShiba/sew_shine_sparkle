@@ -13,7 +13,7 @@ Turn your love for fashion into a dazzling display of technology! In this fun, h
 🔹 **Customize Colors, Fabrics, and Lighting Effects to Make It Truly Yours!**
 
 ### 👕 **Who Can Join?**
-This course is perfect for middle and high school students passionate about fashion, tech, or DIY crafts! Whether you're a beginner or a pro inventor, there's a place for you!
+This course is perfect for middle and high school students passionate about fashion, tech, or DIY crafts! Whether you're a beginner or a pro, there's a place for you!
 
 ### 📍 **Flexible Schedule**
 We offer after-school & weekend classes—**we come to YOU**, making it easy to fit into your busy schedule.
@@ -38,8 +38,8 @@ A free 1hr consultation is available to ask questions, see if it's a good fit, a
     </div>
 <div>
 
-I'm **Lila Josey James**, a technologist with a passion for merging traditional arts and modern technology. I’ve worked with engineers, artists, and educators around the world to bring creative projects to life—especially in education! My work includes developing innovative systems for the classroom and leading co-op programs focused on wearable fashion tech.
-
+I'm Lila Josey James, a technologist with a passion for merging traditional arts and modern technology. I’ve worked with engineers, artists, and educators around the world to bring creative projects to life—especially in education! My work includes developing innovative systems for the classroom and leading co-op programs focused on wearable fashion tech.
+<br>
 I hold a Master’s in Computer Science from Georgia Tech and a Master’s in Cultural Sustainability from Goucher College. I’ve had the privilege of teaching at top schools like Riverdale Country School, The Dwight School, and Berkeley-Carroll, where I fostered creativity and innovation.
-
+<br>
 I’m passionate about inspiring students to think outside the box and explore new ways of creating with technology.
