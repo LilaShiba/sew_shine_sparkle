@@ -1,5 +1,5 @@
-# ✨ Stich, Shine, Sparkle ✨
-⚡ **Bring fashion to life—one glowing stitch at a time!** 🧵✨
+# Bring fashion to life
+✨ **One glowing stitch at a time!** 🧵
 
 <!-- Iteration GIF -->
 <img src="assets/videos/iterate.gif" alt="Iteration Example" width="600" loop loading="lazy">
